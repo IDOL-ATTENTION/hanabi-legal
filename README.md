@@ -8,6 +8,10 @@ Play 심사와 이용자가 언제든 열 수 있어야 하는데, 개발 서버
 | 문서 | 주소 |
 |---|---|
 | 개인정보처리방침 | https://idol-attention.github.io/hanabi-legal/privacy.html |
+| 계정 삭제 요청(Play 데이터 보안 양식의 삭제 URL) | https://idol-attention.github.io/hanabi-legal/delete-account.html |
+| 이전 방침(2026-08-07 시행) | https://idol-attention.github.io/hanabi-legal/privacy-20260807.html |
 
 내용을 고치면 이 저장소에 커밋한다. 앱이 수집하는 항목이나 데이터를 보내는 곳이
 달라지면 문서의 시행일도 함께 고친다.
+
+빈칸 `[시행일]` `[대표자 성명]` `[문의 이메일]` 은 확정되면 채운다. URL 은 그대로 둔다.
